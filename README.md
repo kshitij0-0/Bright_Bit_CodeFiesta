@@ -40,7 +40,7 @@ This Repository consists of solutions to both the problem statements provided.
   <tr>
     <td><img width="400" alt="Screenshot 2022-06-07 at 8 37 57 AM" src="https://user-images.githubusercontent.com/65002995/178813016-315b56fc-a744-4700-b226-550200507d8c.png">
 </td>
-    <td><img width="400"  alt="https://user-images.githubusercontent.com/65002995/178813057-0a375895-b4be-45c7-b797-737fad38f680.png">
+    <td><img width="400"  src="https://user-images.githubusercontent.com/65002995/178813057-0a375895-b4be-45c7-b797-737fad38f680.png">
 </td>
   </tr>
 </table>
