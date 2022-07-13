@@ -10,7 +10,7 @@ This Repository consists of solutions to both the problem statements provided.
 <tr>
     <td><img width="400" alt="Screenshot 2022-06-07 at 8 37 22 AM" src="https://user-images.githubusercontent.com/65002995/178812187-3da55fca-e9b6-4e10-8bbd-eb487209d73f.png">
 </td>
-     <td><img width="400" alt="https://user-images.githubusercontent.com/65002995/178812209-06fe2433-2c03-408d-b8d1-fcc8bf4e9d7f.png">
+     <td><img width="400" alt="Screenshot 2022-06-07 at 8 37 22 AM" src="https://user-images.githubusercontent.com/65002995/178812209-06fe2433-2c03-408d-b8d1-fcc8bf4e9d7f.png">
 </td>
   </tr>
 
