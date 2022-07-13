@@ -10,15 +10,15 @@ This Repository consists of solutions to both the problem statements provided.
 
 <table>
   <tr>
-    <td>### Data in PDF (FIR copy)
+    <td>Data in PDF (FIR copy)
 </td>
-     <td>### Json File
+     <td>Json File
 </td>
   </tr>
   <tr>
     <td><img width="400" alt="Screenshot 2022-06-07 at 8 37 57 AM" src="https://user-images.githubusercontent.com/65002995/178814319-b5d89334-8a6a-45a6-b1c8-02b600fe4369.png">
 </td>
-    <td><img width="400" alt="Screenshot 2022-06-07 at 8 38 17 AM" src="https://user-images.githubusercontent.com/65002995/178814284-88077537-6dad-469e-9f2e-2e7b830e7a80.png">
+    <td><img width="400" zoom="110%" alt="Screenshot 2022-06-07 at 8 38 17 AM" src="https://user-images.githubusercontent.com/65002995/178814284-88077537-6dad-469e-9f2e-2e7b830e7a80.png">
 </td>
   </tr>
 </table>
