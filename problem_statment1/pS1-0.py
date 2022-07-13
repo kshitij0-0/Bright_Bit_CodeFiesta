@@ -16,7 +16,7 @@ import cv2
 import pyautogui
 import json
 
-sent=""
+sent=" "
 
 filename=input()
 poppler_path = r'/opt/homebrew/Cellar/poppler/22.06.0/bin'
