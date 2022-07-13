@@ -7,13 +7,21 @@ This Repository consists of solutions to both the problem statements provided.
  dd.pdf is the fir copy that is in regional language and data.json is the file that has relevant information.
  
  
-<tr>
-    <td><img width="400" alt="Screenshot 2022-06-07 at 8 37 22 AM" src="https://user-images.githubusercontent.com/65002995/178812187-3da55fca-e9b6-4e10-8bbd-eb487209d73f.png">
+
+<table>
+  <tr>
+    <td>### Data in PDF (FIR copy)
 </td>
-     <td><img width="400" alt="Screenshot 2022-06-07 at 8 37 22 AM" src="https://user-images.githubusercontent.com/65002995/178812209-06fe2433-2c03-408d-b8d1-fcc8bf4e9d7f.png">
+     <td>### Json File
 </td>
   </tr>
-
+  <tr>
+    <td><img width="400" alt="Screenshot 2022-06-07 at 8 37 57 AM" src="https://user-images.githubusercontent.com/65002995/178814319-b5d89334-8a6a-45a6-b1c8-02b600fe4369.png">
+</td>
+    <td><img width="400" alt="Screenshot 2022-06-07 at 8 38 17 AM" src="https://user-images.githubusercontent.com/65002995/178814284-88077537-6dad-469e-9f2e-2e7b830e7a80.png">
+</td>
+  </tr>
+</table>
 ## Problem Statment 2
  This folder contains three files:
  pS2.py is the python file with the code to extract data from pdf which is in regional language and transliterate to english.
